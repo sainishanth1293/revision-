@@ -1,0 +1,147 @@
+H&M, Atlanta, GA                                                                                                                              Feb 2017 - Present
+Role: Sr DevOps/Cloud Engineer                                                                                               
+
+Responsibilities and Duties:
+•	Worked on administering/supporting Windows and Linux systems running in Azure
+•	Worked on Microsoft Azure (public) cloud to provide IaaS support to client. Created virtual machines through PowerShell script and Azure portal.
+•	Used Azure AD using AD connect, configured SSO and multifactor authentication. Also configured SSO from Windows 10 based computer which is joined to Azure AD.
+•	Capture an image of a Virtual Machine. Attaching a Disk to a Virtual Machine. Manage and create VirtualNetwork and End Points in Azure Portal.
+•	Usage of Log analytics service to monitor cloud and on-premises environments. Created the workspaces in Log analytics on Azure to store logs and created alerts for critical messages in logs.
+•	Managed the Azure Security groups and attached them to VM's and Subnets using Azure Portal as well as PowerShell Scripts.
+•	Used GIT version control system, Maintained the branching and build/release strategies.
+•	Set up the GIT synchronization web framework based on applications.
+•	Administered Jenkins for deployment into Apache Tomcat Application Servers, testing in build environment and release to test team on scheduled time.
+•	Maintain and track inventory using Jenkins and set alerts when the servers are full and need attention. 
+•	Integrated GITHUB into Jenkins to automate the code check-out process. 
+•	Used Jenkins for Automating Builds and Automating Deployments. 
+•	Worked in Event Hub partition receiver consumer approach and deployment automation via Terraform/PowerShell/ARM. 
+•	Installed and Configured the Nexus repository manager for sharing the artifacts within the company.
+•	Used MAVEN as a build tools on java projects for the development of build artifacts on the source code.
+•	Used Docker to create, deploy and run applications by using containers, 
+•	Docker containers are used for packing up an application with all of the parts it needs.
+•	Worked on Chef cookbooks/recipes to automate Infrastructure as a code
+•	Deploying and maintaining multi-container applications through Docker, orchestrated containerized application using Docker-Compose and Kubernetes.
+•	Identify and automate solutions to improve the performance, monitoring, scalability, and overall stability of our platform.
+•	Configured block blobs, page blobs and append blobs in Azure for storing large amount of unstructured object data such as text or binary data, that can be accessed from anywhere via HTTP and HTTPS.
+•	Administered complete Microsoft Office 365 for local and remote users including Exchange, Lync, office and local on premises active directory syncing with Azure AD.
+•	Administered Jenkins for deployment into Apache Tomcat Application Servers, testing in build environment and release to test team on scheduled time.
+•	Used Ansible and Ansible tower for configuration automates repetitive tasks, quick deployments in critical applications and proactively manages change.
+•	Worked on Docker container snapshots, removing images and created Docker images using Docker file.
+•	Worked on Kubernetes in managing micro services for development of continuous integration and Continuous Deployment.
+•	Developed automation scripting in Python to deploy some applications.
+•	Used Kubernetes for Managed Docker Orchestration and Docker containerization.
+Environment: Shell, Python, Ansible, Ansible Tower, Nginx, Docker, Kubernetes, Nagios, Nexus. Azure,  GIT, JIRA, Confluence, XML, Jenkins, ANT, Maven and Tomcat.
+
+PNC Bank, Toledo, Ohio                                                                                                            Oct 2015 – Jan 2017
+Role: Build and Release Engineer   
+                                                                                     
+Responsibilities and Duties:
+•	Worked on Projects targeting migration from our On-premise into AWS
+•	Executed MAVEN builds to automate artifacts like a jar, war, and ear and pushing the War, Jar, war files into an S3 bucket (AWS)
+•	Worked on AWS cloud in designing, managing, maintaining the entire infrastructure using Terraform templates and migrated applications from on-prem to Cloud that are reliable, scalable and highly available. 
+•	Done with Automation of AWS resources and many other resources like Docker and Severs automation by using Ansible.
+•	Used Terraform to manage the AWS and other cloud infrastructure. Managed servers using configuration management products like Ansible or Puppet. 
+•	Interacted with client teams to understand client deployment requests.
+•	Analyzed the ANT Build projects for conversion.
+•	Converting the ANT Build projects to Maven Build projects.
+•	Automated build and deployment using Bamboo to reduce human error and speed up production processes 
+•	Developed Processes, Tools, Automation for Bamboo based Software for Build system and delivering SW Builds. 
+•	Managed Build results in Bamboo and Deployed using workflows.
+•	Wrote Puppet manifests and modules to deploy, configure, and manage servers.
+•	Worked on authoring pom.xml files, performing releases with the Maven release plugin.
+•	Deployed the applications to Web sphere Application Server and static content to apache web servers.
+•	Used puppet and GitHub repository. Deployed the applications on multiple WebLogic Server instances and maintained Load balancing and high availability.
+•	Worked on user management using LDAP by using puppet configurations. 
+•	Worked in Apache and WebLogic like web server and application server
+•	Created end to end build automation and CI setup for button click push deployment.
+•	Developed new build jobs, Integration testing jobs and deploy jobs in Bamboo to automate the process.
+•	Implemented &maintained the branching and build/release strategies utilizing Subversion in Linux environments.
+•	Developed Ansible scripts for an automated server provisioning and Docker images for isolation, reducing the time between provisioning and deployment from over 3 hours to less than 10 minutes.
+•	Worked on scheduling and orchestration with tools like Kubernetes
+•	Performed re-starts, xml, and environment properties, config changes. 
+•	Administered Bamboo for Continuous Integration and deployment into Tomcat/Web Sphere Application Servers. Integrated builds with Code Quality Tools like Cobertura, PMD and Find bugs.
+•	Worked Daily ticket resolution with Sales force & JIRA ticketing systems for customer facing issues.
+Environment: Git, Bamboo, Tomcat, ANT, Puppet, Ansible, JIRA, Kubernetes, Red Hat/centos Linux, Solaris, Red Hat Cluster Servers, LDAP, WebLogic, Apache, Puppet, AWS, DNS, SVN.
+
+Nationwide Insurance, NJ                                                                                                                      May 2014 – Aug 2015
+Role: Devops Engineer                                                                                                       
+Responsibilities and Duties:
+•	Handled virtual servers (Windows, Linux and Ubuntu) on AWS EC2using open source Chef Server.
+•	To achieve Continuous Delivery goal on high scalable environment, used Docker coupled with load-balancing tool Nginx.
+•	Performed Tagging, Branching, and Release Activities on version control tools GIT and SVN.   
+•	Worked on maintained and configured web servers like HTTP webserver, Apache webserver and WebSphere application server on Red Hat.
+•	Managed AWS cloud and Chef Automation.
+•	Used Jenkins for enterprise scale infrastructure configuration and application deployments.
+•	Checking out code from SVN/GIT and use Ant/Maven to build War/Ear artifacts
+•	Used ANT and MAVEN as build tools on Java projects for the development of build artifacts on the source code. 
+•	Maintained and administered GIT source code tool.
+•	Created Branches, Labels and performed Merges in Stash and GIT.
+•	Worked on GitHub and Developed GIT hooks for the local repository, code commit and remote repository, code push functionality.
+•	Used Ant/Maven for building Java/J2EE Applications.
+•	Built scripts using Ant and Maven build tools in Jenkins to move from one environment to other environments.
+•	Created parent-child relationships between projects for managing Maven project dependencies.
+•	Used Jenkins for continuous integration and continuous deployment with build tools like Maven.
+•	Worked in Kubernetes on multiple cloud providers, helping developers build and containerize the application (CI/CD) in deploying either on public or private cloud.
+•	Worked on Terraform continuous build integration system.
+•	Used cookbooks to deploy python applications on AWS Ops Works and also used script resources such as python to execute scripts in Chef. 
+•	Used JIRA defect tracking tools for tracking defects and changes for change management.
+Environment: Jenkins, Kubernetes, Chef, Ansible, Svn, GIT, AWS, Docker, Bash, Shell, Tomcat and Apache, Ubuntu, Linux.
+
+Web Labs IT Solutions,India                                                                                                                            June 2013 – April 2014
+Role: Release Engineer                                                                                                     
+Responsibilities and Duties:
+•	Developed Unix-Shell Scripts for Build and Deployment process on Unix Boxes.
+•	System design, deployment, configuration and support UNIX and Windows environments. 
+•	Met with client teams to understand client deployment requests.
+•	Associated with Project Managers to understand a code/configuration release scope and how to confirm a release was successful.
+•	Created JIRA issues to prioritize and take action on what's important, and stayed up to date with what's going on around the project.
+•	Worked on continuous integration by using Jenkins and packers.
+•	Installed and configured Jenkins master that served 25 different slaves supporting 6 different
+•	Applications with various release life cycles and multiple CI pipelines setup on project branches.
+•	Worked on AWS EC2, IAM, S3, EBS, Elastic Load balancer (ELB), auto scaling group services.
+•	Installed and Configured Jenkins to perform continuous deployments with push button operation. 
+•	Worked in DevOps platform and cloud solutions.
+•	Wrote Perl/Shell scripts for build and release tasks.
+•	Worked on ANT and MAVEN as build tools on Java projects for the development of build artifacts on the source code.
+•	Worked in Apache and WebLogic like web server and application server.
+•	Wrote playbooks for Ansible and deploying applications using Ansible.
+•	Worked on Docker container snapshots, attaching to a running container, removing images, managing director structures and managing containers.
+•	Worked on several Docker components such as Docker Engine, Hub, machine, compose and Docker registry.
+•	Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configurations.
+•	Through Docker multi-container applications were deployed and maintained.
+•	Worked in windows and VMware server automation using scripting language Power shell, VB Script.
+•	Developed AWS cloud formation templates and setting up Auto scaling for EC2 instances.
+•	Used sub modules in the GIT. Configured plugins for the integration tools to the version control tools.
+•	Building Java/J2EE Applications by using Ant/Maven.
+•	Used perl for writing Hooks and Triggers. Built Java application using ANT.
+•	Performed system administration and operations tasks using Chef, Nagios. 
+•	Used ANT tool to do the builds, integrated ANT to Eclipse and did local builds.
+•	Integrated Maven with Jenkins for the builds as the Continuous Integration process.
+•	Used JIRA for tracking and updating project defects and tasks.
+•	Ensured all steps are successfully completed and document their completion times and issue logs. 
+
+Environment: Perl Scripting, Shell Scripting, Subversion, Perforce, Hudson, Jira, Bamboo, GIT, Tomcat, Confluence, Maven, Visual Build, ANT, Jenkins, Docker.
+
+
+Green Buds Software Technology, India                                                                   Aug 2012-April 2013  
+Position: Linux Administrator  
+						                       
+Responsibilities and Duties:
+•	Designed and executed the upgrades to Linux operating systems and also handled hard ware maintenance like changing memory modules and replacing disk drives.
+•	Controlled of all UNIX servers such as Linux Operating systems by using relative patches and packages at regular maintenance periods using Red Hat Satellite server, YUM and RPM tools.
+•	Worked on Version controller like GIT and continuous integration tool: Jenkins
+•	Conducted failover and integrity test on new servers before rolling out to production.
+•	Monitored CPU, physical disk, Memory, Hardware and Software RAID, multipath, file systems, network using the tools NAGIOS monitoring.
+•	Deployment and configuration of application server Tomcat deploying java and web application.
+•	As a part of proactive maintenance planned, scheduled and implemented OS patches on Linux boxes.
+•	Chef was used for managing server application server such as Apache, MySQL, and Tomcat.
+•	Integrated GIT into Jenkins to automate the code check-out process.
+•	Custom build of Windows 2003 and Windows 2008 servers which includes adding users, SAN, network configuration, installing application related packages, managing services.
+•	Responsible for maintenance of development tools and utilities and to maintain shell, Perl automation Scripts.
+•	Remote system administration using tools like SSH, Telnet, and Rlogin.
+•	Configuration, Installation, and enhanced of service send mail, Apache, FTP servers for user requirements.
+•	Worked on problem solving, analytical skills and technical troubleshooting skills.
+•	Controlled NFS, Auto Mount, DNS, and LDAP related issues.
+•	Wrote Shell scripts for automation of daily tasks, documenting the changes that happen in the environment and in each server, analyzing the error logs, analyzing the User logs.                                                                                                                                                                                                                                                                                                                                 
+Environment and Tools: Git, Tomcat, Jenkins, Shell Scripting, CentOS, VMware, MySQL, Nagios.            
+
